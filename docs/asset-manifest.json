@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/startUpWeekend/static/css/main.d9c4ad3c.css",
+    "main.js": "/startUpWeekend/static/js/main.d8b715bf.js",
+    "static/js/787.88f97ea9.chunk.js": "/startUpWeekend/static/js/787.88f97ea9.chunk.js",
+    "static/media/謎解き2.jpeg": "/startUpWeekend/static/media/謎解き2.137ca24e129114b502f2.jpeg",
+    "static/media/謎解き4.jpeg": "/startUpWeekend/static/media/謎解き4.943205ba5b9c708f8551.jpeg",
+    "static/media/謎解き3.webp": "/startUpWeekend/static/media/謎解き3.387e2d7471c773ea5012.webp",
+    "index.html": "/startUpWeekend/index.html",
+    "main.d9c4ad3c.css.map": "/startUpWeekend/static/css/main.d9c4ad3c.css.map",
+    "main.d8b715bf.js.map": "/startUpWeekend/static/js/main.d8b715bf.js.map",
+    "787.88f97ea9.chunk.js.map": "/startUpWeekend/static/js/787.88f97ea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c4ad3c.css",
+    "static/js/main.d8b715bf.js"
+  ]
+}
