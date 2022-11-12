@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 50px
+}
+.child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.childScreen {
+  width : 250px;
+  height: 450px;
+  border: solid;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.childScreenTitle {
+  margin-top: 10px;
+}
+
+.childScreenQuizContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.childScreenQuiz {
+  width: 80%;
+}
+
+.childScreenButtons {
+  display: flex;
+  flex-direction: row;
+}
+.childScreenTelButton {
+  margin-top: 20px;
+}
+.childScreenFinishButton {
+  margin-top: 20px;
+}
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.parentScreen {
+  width : 250px;
+  height: 450px;
+  border: solid;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.parentScreenTitle {
+  margin-top: 10px;
+}
+
+.parentScreenMessages {
+  width : 220px;
+  height: 300px;
+  border: solid;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.parentScreenMessage {
+  width : 210px;
+  height: 28px;
+  border: solid;
+  border-radius: 15px;
+}
